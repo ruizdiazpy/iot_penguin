@@ -1,2 +1,2 @@
-# iot_penguin
+# repositorio_de_prueba
 Repositorio de Prueba
